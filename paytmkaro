@@ -4,3 +4,7 @@ and my daliy actives are
 first i look into the tickets if they are any assign to me like build issues like that and then we have 6 members of a team 
 and daily we have a scrum meeting in that we discuss about what we done in yesterday and what is the issues and how do we can solve the issue and what we are going to do today how we going do the deployment and is there any issue our team will discuss and resolve that in EndOfThe day 
 
+
+branching stratagy
+
+we follow two different branching stratagy one is master branch and another is Development branch it is very simple. Once developer pushes all his code to the development brach we take that perticular code and through CI/CD pipeline we automate everything like we generate the artifacts we first deploy on dev environment servers once we get a signoff mail from dev environement servers and then we build this perticular project in UIT, TEST and  QA environment servers and i deploy on perticular environments for testing purpose so that testers will work on that deploument once we get a singoff mail from testing team then we merge that perticular development branch with master branch and in that master branch we will get a clean code so from master branch we build a perticular job and we deploy in that pre-prod environment
