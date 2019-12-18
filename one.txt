@@ -1,2 +1,7 @@
+<<<<<<< HEAD
  hi there we are now in 
 platform of devops 
+=======
+hi friends how are you all 
+today we are going to do something new in our lifes because we are not the human being we are hunters we are chasing the money we are chasing something what ever we dont need 
+>>>>>>> development
